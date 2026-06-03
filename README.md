@@ -25,6 +25,45 @@ Students are expected to:
 5. Attempt practice problems whenever possible.
 
 ---
+# Week 2 - Complete Search, Greedy & DP
+
+## Objective
+
+This week's goal is to complete chapters 5-8 of the Handbook. Topics covered are Complete Search, Greedy Algorithms, Dynamic Programming (important), and Amortized Analysis (Two Pointers and Sliding Window). Greedy Algorithms and Dynamic Programming can be difficult to understand at first, do not worry, give it some time and practise the questions.
+
+## Additional resource
+
+### USACO Guide
+Greedy Algorithm - https://usaco.guide/silver/greedy-sorting
+Dynamic Programming - https://usaco.guide/gold/intro-dp
+
+Please refer to Striver's sheet as well in case the topic isn't clear (There are YouTube videos in the sheet).
+
+## Submission Problems
+| # | Problem | Link |
+|---|---------|------|
+| 1 | Apple Division | https://cses.fi/problemset/task/1623 |
+| 2 | Chessboard and Queens | https://cses.fi/problemset/task/1624 |
+| 3 | Stick Lengths | https://cses.fi/problemset/task/1074 |
+| 4 | Movie Festival | https://cses.fi/problemset/task/1629 |
+| 5 | Dice Combinations | https://cses.fi/problemset/task/1633 |
+| 6 | Minimizing Coins | https://cses.fi/problemset/task/1634 |
+| 7 | Longest Increasing Subsequence | https://cses.fi/problemset/task/1145 |
+| 8 | Sum of Two Values | https://cses.fi/problemset/task/1640 |
+
+---
+
+## Practice Problems
+| # | Problem | Link |
+|---|---------|------|
+| 1 | Grid Paths | https://cses.fi/problemset/task/1625 |
+| 2 | Tasks and Deadlines | https://cses.fi/problemset/task/1630 |
+| 3 | Coin Combinations I | https://cses.fi/problemset/task/1635 |
+| 4 | Coin Combinations II | https://cses.fi/problemset/task/1636 |
+| 5 | Subarray Sums II | https://cses.fi/problemset/task/1661 |
+| 6 | Subarray Divisibility | https://cses.fi/problemset/task/1662 |
+
+---
 
 # Week 1 - Complexity Analysis, Prefix Sums & Binary Search
 
