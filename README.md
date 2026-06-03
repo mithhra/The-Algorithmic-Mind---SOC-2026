@@ -29,7 +29,10 @@ Students are expected to:
 
 ## Objective
 
-This week's goal is to complete chapters 5-8 of the Handbook. Topics covered are Complete Search, Greedy Algorithms, Dynamic Programming (important), and Amortized Analysis (Two Pointers and Sliding Window). Greedy Algorithms and Dynamic Programming can be difficult to understand at first, do not worry, give it some time and practise the questions.
+This week's goal is to complete Chapters 5-8 of the Handbook. The topics covered are Complete Search, Greedy Algorithms, Dynamic Programming (important), and Amortized Analysis (Two Pointers and Sliding Window).
+
+Greedy Algorithms and Dynamic Programming may seem difficult at first, but don't worry. Take your time to understand the concepts and practise the questions regularly. It gets easier with time and experience.
+
 
 ## Additional resource
 
