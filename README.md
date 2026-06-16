@@ -25,6 +25,26 @@ Students are expected to:
 5. Attempt practice problems whenever possible.
 
 ---
+# Week 3 - Greedy, DP, Bit Manipulation
+
+## Objective
+
+Revisit Greedy Algorithms and DP. Along with that, complete Chapter 10 (Bit manipulation) of the handbook.
+
+## Submission Problems
+| # | Problem | Link |
+|---|---------|------|
+| 1 | Collecting Numbers | https://cses.fi/problemset/task/2216 |
+| 2 | Restaurant Customers | https://cses.fi/problemset/task/1619 |
+| 3 | Movie Festival II | https://cses.fi/problemset/task/1632 |
+| 4 | Book Shop (0/1 Knapsack) | https://cses.fi/problemset/task/1158 |
+| 5 | Edit Distance | https://cses.fi/problemset/task/1639 |
+| 6 | Array Description | https://cses.fi/problemset/task/1746 |
+| 7 | Counting Towers | https://cses.fi/problemset/task/2413 |
+
+Practise the extra problems given last week.
+
+---
 # Week 2 - Complete Search, Greedy & DP
 
 ## Objective
