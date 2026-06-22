@@ -25,6 +25,36 @@ Students are expected to:
 5. Attempt practice problems whenever possible.
 
 ---
+# Week 4 - Graphs and Trees
+
+## Objective
+
+This week, we will start with Graphs and Trees and learn some of the important algorithms. We will cover chapters 11, 12, 13, and 14 from the handbook.
+
+### Submission Problems
+
+| # | Problem | Link |
+|---|---------|------|
+| 1 | Counting Rooms | https://cses.fi/problemset/task/1192 |
+| 2 | Building Roads | https://cses.fi/problemset/task/1676 |
+| 3 | Message Route | https://cses.fi/problemset/task/1667 |
+| 4 | Shortest Routes I | https://cses.fi/problemset/task/1671 |
+| 5 | Tree Diameter | https://cses.fi/problemset/task/1131 |
+
+---
+
+### Practice Problems
+
+| # | Problem | Link |
+|---|---------|------|
+| 1 | Labyrinth | https://cses.fi/problemset/task/1193 |
+| 2 | Monsters | https://cses.fi/problemset/task/1194 |
+| 3 | Shortest Routes II | https://cses.fi/problemset/task/1672 |
+| 4 | High Score | https://cses.fi/problemset/task/1673 |
+| 5 | Tree Distances I | https://cses.fi/problemset/task/1132 |
+---
+
+
 # Week 3 - Greedy, DP, Bit Manipulation
 
 ## Objective
