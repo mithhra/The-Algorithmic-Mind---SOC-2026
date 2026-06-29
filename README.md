@@ -25,6 +25,40 @@ Students are expected to:
 5. Attempt practice problems whenever possible.
 
 ---
+# Week 5
+
+## Objective
+This week's goal is to complete Chapters 14–17 and build a solid understanding of tree algorithms and related concepts. Make sure to spend enough time practising and implementing what you learn.
+
+
+### Submission Problems
+
+| # | Problem | Link |
+|---|---------|------|
+| 1 | Tree Distances II | https://cses.fi/problemset/task/1133 |
+| 2 | Building Teams | https://cses.fi/problemset/task/1668 |
+| 3 | Road Reparation | https://cses.fi/problemset/task/1675 |
+| 4 | Course Schedule | https://cses.fi/problemset/task/1679 |
+| 5 | Longest Flight Route | https://cses.fi/problemset/task/1680 |
+| 6 | Round Trip II | https://cses.fi/problemset/task/1678 |
+
+---
+
+### Practice Problems
+
+| # | Problem | Link |
+|---|---------|------|
+| 1 | Subordinates | https://cses.fi/problemset/task/1674 |
+| 2 | Path Queries | https://cses.fi/problemset/task/1138 |
+| 3 | Cycle Finding | https://cses.fi/problemset/task/1197 |
+| 4 | Game Routes | https://cses.fi/problemset/task/1681 |
+| 5 | Investigation | https://cses.fi/problemset/task/1677 |
+| 6 | Planets and Kingdoms | https://cses.fi/problemset/task/1683 |
+| 7 | Flight Routes | https://cses.fi/problemset/task/1195 |
+| 8 | Counting Paths | https://cses.fi/problemset/task/1136 |
+
+---
+
 # Week 4 - Graphs and Trees
 
 ## Objective
