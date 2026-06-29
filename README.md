@@ -28,7 +28,7 @@ Students are expected to:
 # Week 5
 
 ## Objective
-This week's goal is to complete Chapters 14–17 and build a solid understanding of tree algorithms and related concepts. Make sure to spend enough time practising and implementing what you learn.
+This week's goal is to complete Chapters 14 to 17 and build a solid understanding of tree algorithms and related concepts. Make sure to spend enough time practising and implementing what you learn.
 
 
 ### Submission Problems
