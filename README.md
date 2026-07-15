@@ -25,6 +25,32 @@ Students are expected to:
 5. Attempt practice problems whenever possible.
 
 ---
+# Week 8 - Final Week
+
+---
+
+## Objective
+
+Choose 3 topics from the list and solve all 3 corresponding problems.
+
+Along with your solutions, record a short video explaining any 2 of the problems. Walk us through your thought process — how you approached the problem, why you chose that strategy, and how your solution works.
+
+---
+
+## Problems
+
+| # | Topic | Link |
+|---|-------|------|
+| 1 | Segment Tree | https://cses.fi/problemset/task/1647 |
+| 2 | DSU / Union Find | https://cses.fi/problemset/task/1676 |
+| 3 | Trie | https://cses.fi/problemset/task/1731 |
+| 4 | Bitmask DP | https://cses.fi/problemset/task/1653 |
+| 5 | LCA | https://cses.fi/problemset/task/1688 |
+| 6 | Z-Algorithm | https://cses.fi/problemset/task/1753 |
+| 7 | Matrix Exponentiation | https://cses.fi/problemset/task/1722 |
+| 8 | Lazy Propagation | https://cses.fi/problemset/task/1735 |
+---
+
 # Week 7
 
 ---
