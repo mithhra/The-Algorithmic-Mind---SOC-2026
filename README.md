@@ -45,6 +45,19 @@ This week covers advanced topics — string algorithms, combinatorics, and numbe
 | 4 | Bracket Sequences I | https://cses.fi/problemset/task/2064 |
 | 5 | Counting Necklaces | https://cses.fi/problemset/task/2209 |
 
+
+## Practice Problems
+
+| # | Problem | Link |
+|---|---------|------|
+| 1 | String Statistics | https://cses.fi/problemset/task/1732 |
+| 2 | Longest Common Substring | https://cses.fi/problemset/task/1075 |
+| 3 | Palindrome Queries | https://cses.fi/problemset/task/2420 |
+| 4 | Counting Grids | https://cses.fi/problemset/task/2210 |
+| 5 | Bracket Sequences II | https://cses.fi/problemset/task/2065 |
+| 6 | Fibonacci Numbers | https://cses.fi/problemset/task/1722 |
+| 7 | Throwing Dice | https://cses.fi/problemset/task/1096 |
+
 ---
 
 # Week 6
