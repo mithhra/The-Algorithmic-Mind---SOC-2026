@@ -24,6 +24,7 @@ Students are expected to:
 4. Upload solutions in the corresponding week's folder(The submitting file's name should be your name).
 5. Attempt practice problems whenever possible.
 
+<!--
 ---
 # Week 8 - Final Week
 
@@ -49,6 +50,7 @@ Along with your solutions, record a short video explaining any 2 of the problems
 | 6 | Z-Algorithm | https://cses.fi/problemset/task/1753 |
 | 7 | Matrix Exponentiation | https://cses.fi/problemset/task/1722 |
 | 8 | Lazy Propagation | https://cses.fi/problemset/task/1735 |
+-->
 ---
 
 # Week 7
