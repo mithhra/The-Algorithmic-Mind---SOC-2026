@@ -25,6 +25,65 @@ Students are expected to:
 5. Attempt practice problems whenever possible.
 
 ---
+# Week 7
+
+---
+
+## Objective
+
+This week covers advanced topics — string algorithms, combinatorics, and number theory. These are kept reasonably doable; focus on KMP, tries, and basic combinatorics before attempting anything harder.
+
+---
+
+## Submission Problems
+
+| # | Problem | Link |
+|---|---------|------|
+| 1 | String Matching | https://cses.fi/problemset/task/1753 |
+| 2 | Word Combinations | https://cses.fi/problemset/task/1731 |
+| 3 | Required Substring | https://cses.fi/problemset/task/1112 |
+| 4 | Bracket Sequences I | https://cses.fi/problemset/task/2064 |
+| 5 | Counting Necklaces | https://cses.fi/problemset/task/2209 |
+
+---
+
+# Week 6
+
+---
+
+## Objective
+
+This week's goal is to complete Chapters 18, 19, and 20 covering range queries, mathematics, and game theory. Focus on understanding segment trees, Fenwick trees, and modular arithmetic as these appear frequently in competitive programming.
+
+---
+
+## Submission Problems
+
+| # | Problem | Link |
+|---|---------|------|
+| 1 | Static Range Sum Queries | https://cses.fi/problemset/task/1646 |
+| 2 | Static Range Minimum Queries | https://cses.fi/problemset/task/1647 |
+| 3 | Dynamic Range Sum Queries | https://cses.fi/problemset/task/1648 |
+| 4 | Counting Divisors | https://cses.fi/problemset/task/1713 |
+| 5 | Exponentiation | https://cses.fi/problemset/task/1095 |
+| 6 | Nim Game | https://cses.fi/problemset/task/1730 |
+
+---
+
+## Practice Problems
+
+| # | Problem | Link |
+|---|---------|------|
+| 1 | Range XOR Queries | https://cses.fi/problemset/task/1650 |
+| 2 | Dynamic Range Minimum Queries | https://cses.fi/problemset/task/1649 |
+| 3 | Forest Queries | https://cses.fi/problemset/task/1652 |
+| 4 | Exponentiation II | https://cses.fi/problemset/task/1712 |
+| 5 | Common Divisors | https://cses.fi/problemset/task/1081 |
+| 6 | Sum of Divisors | https://cses.fi/problemset/task/1082 |
+| 7 | Prime Multiples | https://cses.fi/problemset/task/2185 |
+| 8 | Staircase Nim | https://cses.fi/problemset/task/1099 |
+
+---
 # Week 5
 
 ## Objective
